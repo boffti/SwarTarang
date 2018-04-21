@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "353892265782",
+    "firebase_url": "https://swartarang-609fe.firebaseio.com",
+    "project_id": "swartarang-609fe",
+    "storage_bucket": "swartarang-609fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353892265782:android:1105d105777885be",
+        "android_client_info": {
+          "package_name": "com.melkoa.swartarang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353892265782-fpdg2o7e67bgdd28jnt498fo66f1pun0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melkoa.swartarang",
+            "certificate_hash": "b0789fdcd0ab24804bf380faefe1364735a60b92"
+          }
+        },
+        {
+          "client_id": "353892265782-69mnj3c5ehpl0925b8e3g7fp8r3bdpa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVnZlCuRG2rjvVOXFl-2biZXIrJcqlag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353892265782-69mnj3c5ehpl0925b8e3g7fp8r3bdpa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

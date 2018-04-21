@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwarTarang</string>
+    <string name="dialog_title">Test</string>
+    <string name="dialog_message">Record Audio</string>
+</resources>
