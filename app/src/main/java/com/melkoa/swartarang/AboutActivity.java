@@ -20,5 +20,7 @@ public class AboutActivity extends AppCompatActivity {
         Typeface custom_font = Typeface.createFromAsset(getAssets(), "fonts/pecita.otf");
         login_logo_text.setTypeface(custom_font);
 
+        //Info about the app goes here
+
     }
 }
